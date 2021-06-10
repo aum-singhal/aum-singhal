@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=aum-singhal&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
