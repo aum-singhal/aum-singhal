@@ -1,5 +1,5 @@
 
-## Hi there 👋, I am *Aum Singhal!*,
+## Hi there 👋, I am *Aum Singhal!*
 
 <!--
 **aum-singhal/Aum-Singhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=aum-singhal)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aum-singhal)](https://github.com/ryo-ma/github-profile-trophy)
