@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
-![](https://raw.githubusercontent.com/aum-singhal/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/aum-singhal/github-stats-transparent/output/generated/languages.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattn&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=mattn&show_icons=true&count_private=true&line_height=40)
