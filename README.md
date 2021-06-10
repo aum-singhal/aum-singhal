@@ -22,10 +22,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=aum-singhal&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aum-singhal)
-![aum's github stats](https://github-readme-stats.vercel.app/api?username=aum-singhal&show_icons=true&count_private=true&line_height=40)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
