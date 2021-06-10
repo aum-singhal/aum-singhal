@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=aum-singhal)
 
 
-https://github-profile-trophy.vercel.app/?username=aum-singhal&title=Stars,Commit,Issues,Repositories,PullRequest
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github-profile-trophy.vercel.app/?username=aum-singhal&title=Stars,Commit,Issues,Repositories,PullRequest)
+
 
