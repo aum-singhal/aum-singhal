@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=aum-singhal&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=aum-singhal&column=4&margin-w=5&margin-h=5&theme=darkhub" />
 </p>
 
 
