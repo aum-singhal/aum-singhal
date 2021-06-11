@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aum-singhal) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aum-singhal&show_icons=true&locale=en&layout=compact" alt="aum-singhal" />
 
-## My Last 31 Days Progress
+## <p align="center">My Last 31 Days Progress </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=aum-singhal&theme=xcode" />
