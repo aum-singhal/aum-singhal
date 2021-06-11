@@ -18,6 +18,16 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=aum-singhal)
 
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aum-s-895a86131/" target="blank"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="ekagrashukla"/></a>
+<!-- <a href="https://youtube.com/maliciousyunk" target="blank"><img src="https://img.icons8.com/color/50/000000/youtube-play.png" alt="maliciousyunk"/></a> -->
+</p>
+
+<br>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aum-singhal&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
