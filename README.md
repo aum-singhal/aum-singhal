@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">Github Stats 📈</h3>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aum-singhal&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aum-singhal&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact" />
+</p>
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aum-singhal)
