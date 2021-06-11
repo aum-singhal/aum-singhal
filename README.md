@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 <br>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aum-singhal&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aum-singhal&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
