@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="left">Connect with me <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"></h3>
+<h3 align="left">Connect with me <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 80px;"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aum-s-895a86131/" target="blank"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="ekagrashukla"/></a>
   <a href="https://discord.gg/FHHYWmD4C2"><img src="https://img.icons8.com/color/50/000000/discord.png" /></a> 
