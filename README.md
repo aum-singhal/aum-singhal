@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 <br>
 
-### <h3 align="center"><a href="https://emoji.gg/emoji/7356_trophy"><img src="https://emoji.gg/assets/emoji/7356_trophy.gif" width="32px" height="32px" alt="trophy"></a>Trophies<a href="https://emoji.gg/emoji/7356_trophy"><img src="https://emoji.gg/assets/emoji/7356_trophy.gif" width="32px" height="32px" alt="trophy"></a>
-<p align="center"></h3>
+### <h2 align="center"><a href="https://emoji.gg/emoji/7356_trophy"><img src="https://emoji.gg/assets/emoji/7356_trophy.gif" width="32px" height="32px" alt="trophy"></a>Trophies<a href="https://emoji.gg/emoji/7356_trophy"><img src="https://emoji.gg/assets/emoji/7356_trophy.gif" width="32px" height="32px" alt="trophy"></a>
+<p align="center"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=aum-singhal&column=4&margin-w=5&margin-h=5&theme=darkhub" />
 </p>
 
-### <h3 align="center">Github Stats 📈</h3>
+### <h3 align="center"><a href="https://emoji.gg/emoji/7338_down_graph"><img src="https://emoji.gg/assets/emoji/7338_down_graph.png" width="24px" height="24px" alt="down_graph"></a> Github Stats <a href="https://emoji.gg/emoji/4639_up_graph"><img src="https://emoji.gg/assets/emoji/4639_up_graph.png" width="24px" height="24px" alt="up_graph"></a></h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aum-singhal&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aum-singhal&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact" />
 </p>
