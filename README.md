@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <br>
 
-### <a href="https://emoji.gg/emoji/7356_trophy"><img src="https://emoji.gg/assets/emoji/7356_trophy.gif" width="32px" height="32px" alt="trophy"></a><h3 align="center">Trophies</h3><a href="https://emoji.gg/emoji/7356_trophy"><img src="https://emoji.gg/assets/emoji/7356_trophy.gif" width="32px" height="32px" alt="trophy"></a>
-<p align="center">
+### <h3 align="center"><a href="https://emoji.gg/emoji/7356_trophy"><img src="https://emoji.gg/assets/emoji/7356_trophy.gif" width="32px" height="32px" alt="trophy"></a>Trophies<a href="https://emoji.gg/emoji/7356_trophy"><img src="https://emoji.gg/assets/emoji/7356_trophy.gif" width="32px" height="32px" alt="trophy"></a>
+<p align="center"></h3>
   <img src="https://github-profile-trophy.vercel.app/?username=aum-singhal&column=4&margin-w=5&margin-h=5&theme=darkhub" />
 </p>
 
