@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 <br>
 
+###<h3 align=center">Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aum-singhal&column=4&margin-w=5&margin-h=5&theme=darkhub" />
 </p>
 
-<h3 align="center">Github Stats 📈</h3>
+###<h3 align="center">Github Stats 📈</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aum-singhal&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aum-singhal&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact" />
 </p>
@@ -42,5 +43,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aum-singhal)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aum-singhal&show_icons=true&locale=en&layout=compact" alt="aum-singhal" /> -->
 
-## <p align="center">My Last 31 Days Progress </p>
+### <p align="center">My Last 31 Days Progress </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=aum-singhal&theme=xcode" />
