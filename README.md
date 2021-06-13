@@ -1,6 +1,10 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am *Aum Singhal!*
 
+<p>
+  I am passionate Learner and have learning something new everyday from almost every feild.
+</p>
+
 <!--
 **aum-singhal/Aum-Singhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
