@@ -3,10 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aum-singhal)
 
-<p>
-  I am passionate Learner and have learning something new everyday from almost every feild.
-</p>
-
 - 👨🏻‍🎓 Currently persuing my B.Tech in CSE
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: stay happy with what I have 😁
