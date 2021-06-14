@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### <h3 align="center"><a href="https://emoji.gg/emoji/7338_down_graph"><img src="https://emoji.gg/assets/emoji/7338_down_graph.png" width="24px" height="24px" alt="down_graph"></a> Github Stats <a href="https://emoji.gg/emoji/4639_up_graph"><img src="https://emoji.gg/assets/emoji/4639_up_graph.png" width="24px" height="24px" alt="up_graph"></a></h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aum-singhal&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aum-singhal&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact" />
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=aum-singhal&theme=vision-friendly-dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aum-singhal&theme=vision-friendly-dark" />
 </p>
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
