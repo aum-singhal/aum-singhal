@@ -1,6 +1,8 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am *Aum Singhal!*
 
+![](https://komarev.com/ghpvc/?username=aum-singhal)
+
 <p>
   I am passionate Learner and have learning something new everyday from almost every feild.
 </p>
@@ -20,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=aum-singhal)
+
 
 <br>
 
