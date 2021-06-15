@@ -6,6 +6,8 @@
 - 👨🏻‍🎓 Currently persuing my B.Tech in CSE
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: stay happy with what I have 😁
+- 🔭 I’m currently working on Web and Android development
+
 
 <!--
 **aum-singhal/Aum-Singhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
